@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Burned&size=23&pause=2000&color=32A912E4&center=true&vCenter=true&width=435&lines=Heyy!+It's+Ensar+;I'm+a+Student+at+DuzceUniversity;ENSAR+TOPAL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Burned&size=23&pause=2000&color=32A912E4&center=true&vCenter=true&width=435&lines=Heyy!+It's+Ensar+;I'm+a+Student+at+DuzceUniversity;ENSAR+TOPAL!)](https://git.io/typing-svg)
 
 
 
