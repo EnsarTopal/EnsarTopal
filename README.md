@@ -16,14 +16,15 @@
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/3ns4r/"><img src="https://img.shields.io/badge/-Ensar%20Topal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ensartopal34@gmail.com"><img src="https://img.shields.io/badge/-ensartopal34@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/3ns4r/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ensartopal34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/ensartopal34"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  
 </p>
 <!--
 **EnsarTopal/EnsarTopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
